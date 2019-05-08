@@ -41,6 +41,8 @@ This board also comes equipped with Qwiic connectors so you can quickly and easi
 * [Eagle files](https://github.com/ZIOCC/Qwiic_4-Ch_DC_Motor_Controller)
 
 
+##### Connections for demo
+![](https://www.smart-prototyping.com/image/data/NOA-RnD/101897%204%20DC%20Motor%20Driver/DC_Motor_Demo_Code_Connection.jpg)
 
 
 > ###### About Zio
