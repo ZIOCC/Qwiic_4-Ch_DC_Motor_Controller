@@ -6,6 +6,7 @@ product link: https://www.smart-prototyping.com/Zio-4-DC-Motor-Controller.html
 PCA9685PW datasheet: https://www.smart-prototyping.com/image/data/NOA-RnD/101897%204%20DC%20Motor%20Driver/PCA9685PW_datasheet.pdf
 TB6612FNG datasheet: https://www.smart-prototyping.com/image/data/NOA-RnD/101897%204%20DC%20Motor%20Driver/TB6612FNG_datasheet.pdf
 reference: https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
+library link: https://github.com/ZIOCC/Qwiic_4-Ch_DC_Motor_Controller/tree/master/micropython
 '''
 
 import time
